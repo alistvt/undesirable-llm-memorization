@@ -18,4 +18,16 @@ Feel free to contribute by submitting a pull request if you find a relevant pape
 ---
 
 ## 📜 Citation
-If you find this repository useful, consider citing [our survey paper](https://arxiv.org/abs/2410.02650).
+If you find this repository useful, consider citing [our survey paper](https://arxiv.org/abs/2410.02650):
+
+```
+@misc{satvaty2024undesirablememorizationlargelanguage,
+      title={Undesirable Memorization in Large Language Models: A Survey}, 
+      author={Ali Satvaty and Suzan Verberne and Fatih Turkmen},
+      year={2024},
+      eprint={2410.02650},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.02650}, 
+}
+```
