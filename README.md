@@ -27,7 +27,7 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 
 - **[Memorization in nlp fine-tuning methods]()** (2022) - *Fatemehsadat Mireshghallah et al.*
 
-- **[Are language models leaking personal information?](https://arxiv.org/abs/2205.12506)** (2023) - * et al.*
+- **[Are language models leaking personal information?](https://arxiv.org/abs/2205.12506)** (2023) - *Jie Huang et al.*
 
 - **[The secret sharer: Evaluating and testing unintended memorization in neural networks](https://arxiv.org/abs/1802.08232)** (2019) - *Nicholas Carlini et al.*
 
