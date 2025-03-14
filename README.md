@@ -8,7 +8,7 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 
 - **[Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)** (2021) - *Nicholas Carlini et al.* | [Code](https://github.com/ftramer/LM-Data-Extraction) | `Data extraction` `Privacy attacks` `LLM memorization`
 - **[A Counterfactual Memorization Test for Large Language Models](https://arxiv.org/abs/2305.14245)** (2023) - *John Doe et al.* | [Code](https://github.com/example/counterfactual-memorization) | `Counterfactual memorization` `LLM security` `data leakage`
-- **[Membership Inference Attacks on Language Models](https://arxiv.org/abs/2201.12345)** (2022) - *Alice Brown et al.* | [Code](https://github.com/example/membership-inference) | `Membership inference` `privacy vulnerabilities` `adversarial attacks`
+- **[Membership Inference Attacks on Language Models](https://arxiv.org/abs/2201.12345)** (2022) - *Alice Brown et al.* | [Code](https://github.com/example/membership-inference) | [Membership inference] [privacy vulnerabilities] [adversarial attacks]
 
 ---
 
