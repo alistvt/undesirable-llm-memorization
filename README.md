@@ -6,9 +6,14 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 
 ## 📖 Papers
 
-- **[Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)** (2021) - *Nicholas Carlini et al.* | [Code](https://github.com/ftramer/LM-Data-Extraction) | `Data extraction` `Privacy attacks` `LLM memorization`
-- **[A Counterfactual Memorization Test for Large Language Models](https://arxiv.org/abs/2305.14245)** (2023) - *John Doe et al.* | [Code](https://github.com/example/counterfactual-memorization) | `Counterfactual memorization` `LLM security` `data leakage`
-- **[Membership Inference Attacks on Language Models](https://arxiv.org/abs/2201.12345)** (2022) - *Alice Brown et al.* | [Code](https://github.com/example/membership-inference) |  ![Privacy](https://img.shields.io/badge/-Privacy-red)  [privacy vulnerabilities] [adversarial attacks]
+- **[Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)** (2021) - *Nicholas Carlini et al.* | [Code](https://github.com/ftramer/LM-Data-Extraction)  
+  ![Privacy](https://img.shields.io/badge/-Privacy-red) ![Data Extraction](https://img.shields.io/badge/-Data%20Extraction-blue) ![LLMs](https://img.shields.io/badge/-LLMs-green)
+
+- **[A Counterfactual Memorization Test for Large Language Models](https://arxiv.org/abs/2305.14245)** (2023) - *John Doe et al.* | [Code](https://github.com/example/counterfactual-memorization)  
+  ![Counterfactual Memorization](https://img.shields.io/badge/-Counterfactual%20Memorization-purple) ![Security](https://img.shields.io/badge/-Security-orange) ![Data Leakage](https://img.shields.io/badge/-Data%20Leakage-yellow)
+
+- **[Membership Inference Attacks on Language Models](https://arxiv.org/abs/2201.12345)** (2022) - *Alice Brown et al.* | [Code](https://github.com/example/membership-inference)  
+  ![Membership Inference](https://img.shields.io/badge/-Membership%20Inference-pink) ![Privacy Vulnerabilities](https://img.shields.io/badge/-Privacy%20Vulnerabilities-red) ![Adversarial Attacks](https://img.shields.io/badge/-Adversarial%20Attacks-blue)
 
 ---
 
