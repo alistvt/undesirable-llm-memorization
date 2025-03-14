@@ -1,6 +1,6 @@
 # 📚 Undesirable memorization in Large Language Models: A Survey
 
-This repository contains a list of papers cited in my survey on [**undesirable memorization in Large Language Models (LLMs)**](https://arxiv.org/abs/2410.02650). Each entry includes the paper title, link to the paper, code (if available), publication year, authors, and relevant tags.
+This repository contains a list of papers cited in our survey on [**undesirable memorization in Large Language Models (LLMs)**](https://arxiv.org/abs/2410.02650). Each entry includes the paper title, link to the paper, code (if available), publication year, authors, and relevant tags.
 
 ---
 
