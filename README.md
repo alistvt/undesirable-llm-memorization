@@ -4,6 +4,247 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 
 ---
 
+# LLM Memorization
+
+<details open>
+<summary><strong>SPECTRUM (II)</strong></summary>
+
+<details>
+<summary>Granularity</summary>
+
+- perfect (23)
+- verbatim (13, 24, 25)
+- approximate (26, 28, 29)
+- entity-level (30, 31)
+- content (12, 33–38)
+
+</details>
+
+<details>
+<summary>Retrievability</summary>
+
+- extractable (39, 13, 40)
+- discoverable (40, 42–45, 39)
+
+</details>
+
+<details>
+<summary>Desirability</summary>
+
+- undesirable (16, 39, 46–58)
+- desirable (59–62)
+
+</details>
+
+</details>
+
+---
+
+<details open>
+<summary><strong>MEASUREMENT (III)</strong></summary>
+
+<details>
+<summary>String match</summary>
+
+- (40, 43, 48)
+
+</details>
+
+<details>
+<summary>Exposure</summary>
+
+- (24, 48, 63)
+
+</details>
+
+<details>
+<summary>Inference attacks</summary>
+
+<details>
+<summary>membership inference</summary>
+
+- (65–75)
+
+</details>
+
+<details>
+<summary>data extraction</summary>
+
+- (40, 43, 48, 71, 76–78)
+
+</details>
+
+</details>
+
+<details>
+<summary>Counterfactuality</summary>
+
+- (80)
+
+</details>
+
+<details>
+<summary>Heuristic methods</summary>
+
+- (81, 82, 83)
+
+</details>
+
+</details>
+
+---
+
+<details open>
+<summary><strong>INFLUENCES (IV)</strong></summary>
+
+<details>
+<summary>Model-related</summary>
+
+<details>
+<summary>model capacity</summary>
+
+- (25, 39, 84–86)
+
+</details>
+
+<details>
+<summary>tokenization</summary>
+
+- (87)
+
+</details>
+
+<details>
+<summary>explainability & interpretability</summary>
+
+- (88–94)
+
+</details>
+
+</details>
+
+<details>
+<summary>Training pipeline</summary>
+
+<details>
+<summary>data characteristics</summary>
+
+- (23, 25, 28, 57, 95, 96)
+
+</details>
+
+<details>
+<summary>training dynamics</summary>
+
+- (23, 80, 97, 98)
+
+</details>
+
+<details>
+<summary>forgetting</summary>
+
+- (25, 97, 99–104)
+
+</details>
+
+<details>
+<summary>fine-tuning</summary>
+
+- (105, 106, 107)
+
+</details>
+
+</details>
+
+<details>
+<summary>Inference-time</summary>
+
+<details>
+<summary>Prompting</summary>
+
+- (13, 23, 108–113)
+
+</details>
+
+<details>
+<summary>decoding</summary>
+
+- (13, 114–117)
+
+</details>
+
+</details>
+
+</details>
+
+---
+
+<details open>
+<summary><strong>MITIGATION (V)</strong></summary>
+
+<details>
+<summary>Data-level methods</summary>
+
+- (95)
+
+</details>
+
+<details>
+<summary>Training-time methods</summary>
+
+<details>
+<summary>differential privacy</summary>
+
+- (24, 78, 131–135)
+
+</details>
+
+<details>
+<summary>promoting reasoning</summary>
+
+- (56, 58, 136, 137)
+
+</details>
+
+<details>
+<summary>training intervention</summary>
+
+- (138–141)
+
+</details>
+
+</details>
+
+<details>
+<summary>Post-training methods</summary>
+
+<details>
+<summary>unlearning</summary>
+
+- (142–147)
+
+</details>
+
+<details>
+<summary>model editing</summary>
+
+- (148, 149)
+
+</details>
+
+<details>
+<summary>decoding</summary>
+
+- (26, 119, 150–152)
+
+</details>
+
+</details>
+
+</details>
+
+
+
 ## 📖 Papers
 
 
