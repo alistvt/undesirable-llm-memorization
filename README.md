@@ -10,10 +10,9 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 
 ### Granularity
 <details>
-- <summary>perfect (23)</summary>
-      - 1
-      - 2
-</details>details>
+- <summary>perfect</summary>
+      (23)
+</details>
 - verbatim (13, 24, 25)
 - approximate (26, 28, 29)
 - entity-level (30, 31)
