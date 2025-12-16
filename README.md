@@ -6,13 +6,14 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 
 # LLM Memorization
 
-<details open>
-<summary><strong>##SPECTRUM (II)</strong></summary>
+## SPECTRUM 🌈
 
+### Granularity
 <details>
-<summary>Granularity</summary>
-
-- perfect (23)
+- <summary>perfect (23)</summary>
+      - 1
+      - 2
+</details>details>
 - verbatim (13, 24, 25)
 - approximate (26, 28, 29)
 - entity-level (30, 31)
@@ -39,6 +40,11 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 </details>
 
 ---
+
+## MEASUREMENT 📏
+
+## 
+
 
 <details open>
 <summary><strong>MEASUREMENT (III)</strong></summary>
