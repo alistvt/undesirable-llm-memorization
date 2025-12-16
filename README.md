@@ -7,7 +7,7 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 # LLM Memorization
 
 <details open>
-<summary><strong>SPECTRUM (II)</strong></summary>
+<summary><strong>##SPECTRUM (II)</strong></summary>
 
 <details>
 <summary>Granularity</summary>
