@@ -9,244 +9,126 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 ## SPECTRUM 🌈
 
 ### Granularity
-<details>
-- <summary>perfect</summary>
+
+#### perfect
       (23)
-</details>
-- verbatim (13, 24, 25)
-- approximate (26, 28, 29)
-- entity-level (30, 31)
-- content (12, 33–38)
 
-</details>
+#### verbatim
+      (13, 24, 25)
 
-<details>
-<summary>Retrievability</summary>
+#### approximate
+      (26, 28, 29)
 
-- extractable (39, 13, 40)
-- discoverable (40, 42–45, 39)
+#### entity-level
+      (30, 31)
 
-</details>
+#### content
+      (12, 33–38)
 
-<details>
-<summary>Desirability</summary>
+### Retrievability
 
-- undesirable (16, 39, 46–58)
-- desirable (59–62)
 
-</details>
+#### extractable
+      (39, 13, 40)
 
-</details>
+#### discoverable
+      (40, 42–45, 39)
 
----
+### Desirability
+
+#### undesirable
+      (16, 39, 46–58)
+
+#### desirable
+      (59–62)
 
 ## MEASUREMENT 📏
 
-## 
+### String match
+      (40, 43, 48)
 
+### String match
+      (40, 43, 48)
 
-<details open>
-<summary><strong>MEASUREMENT (III)</strong></summary>
+### Exposure
+      (24, 48, 63)
 
-<details>
-<summary>String match</summary>
+### Inference attacks
 
-- (40, 43, 48)
+#### membership inference
+      (65–75)
 
-</details>
+#### data extraction
+      (40, 43, 48, 71, 76–78)
 
-<details>
-<summary>Exposure</summary>
+### Counterfactuality
+      (80)
 
-- (24, 48, 63)
+### Heuristic methods
+      (81, 82, 83)
 
-</details>
+## INFLUENCES
 
-<details>
-<summary>Inference attacks</summary>
+### Model-related
 
-<details>
-<summary>membership inference</summary>
+#### model capacity
+      (25, 39, 84–86)
 
-- (65–75)
+#### tokenization
+      (87)
 
-</details>
+#### explainability & interpretability
+      (88–94)
 
-<details>
-<summary>data extraction</summary>
+### Training pipeline
 
-- (40, 43, 48, 71, 76–78)
+#### data characteristics
+      (23, 25, 28, 57, 95, 96)
 
-</details>
+#### training dynamics
+      (23, 80, 97, 98)
 
-</details>
+#### forgetting
+      (25, 97, 99–104)
 
-<details>
-<summary>Counterfactuality</summary>
+#### fine-tuning
+      (105, 106, 107)
 
-- (80)
+### Inference-time
 
-</details>
+#### Prompting
+      (13, 23, 108–113)
 
-<details>
-<summary>Heuristic methods</summary>
+#### decoding
+      (13, 114–117)
 
-- (81, 82, 83)
+## MITIGATION
 
-</details>
+### Data-level methods
+      (95)
 
-</details>
+### Training-time methods
 
----
+#### differential privacy
+      (24, 78, 131–135)
 
-<details open>
-<summary><strong>INFLUENCES (IV)</strong></summary>
+#### promoting reasoning
+      (56, 58, 136, 137)
 
-<details>
-<summary>Model-related</summary>
+#### training intervention
+      (138–141)
 
-<details>
-<summary>model capacity</summary>
+### Post-training methods
 
-- (25, 39, 84–86)
+#### unlearning
+      (142–147)
 
-</details>
+#### model editing
+      (148, 149)
 
-<details>
-<summary>tokenization</summary>
+#### decoding
+      (26, 119, 150–152)
 
-- (87)
-
-</details>
-
-<details>
-<summary>explainability & interpretability</summary>
-
-- (88–94)
-
-</details>
-
-</details>
-
-<details>
-<summary>Training pipeline</summary>
-
-<details>
-<summary>data characteristics</summary>
-
-- (23, 25, 28, 57, 95, 96)
-
-</details>
-
-<details>
-<summary>training dynamics</summary>
-
-- (23, 80, 97, 98)
-
-</details>
-
-<details>
-<summary>forgetting</summary>
-
-- (25, 97, 99–104)
-
-</details>
-
-<details>
-<summary>fine-tuning</summary>
-
-- (105, 106, 107)
-
-</details>
-
-</details>
-
-<details>
-<summary>Inference-time</summary>
-
-<details>
-<summary>Prompting</summary>
-
-- (13, 23, 108–113)
-
-</details>
-
-<details>
-<summary>decoding</summary>
-
-- (13, 114–117)
-
-</details>
-
-</details>
-
-</details>
-
----
-
-<details open>
-<summary><strong>MITIGATION (V)</strong></summary>
-
-<details>
-<summary>Data-level methods</summary>
-
-- (95)
-
-</details>
-
-<details>
-<summary>Training-time methods</summary>
-
-<details>
-<summary>differential privacy</summary>
-
-- (24, 78, 131–135)
-
-</details>
-
-<details>
-<summary>promoting reasoning</summary>
-
-- (56, 58, 136, 137)
-
-</details>
-
-<details>
-<summary>training intervention</summary>
-
-- (138–141)
-
-</details>
-
-</details>
-
-<details>
-<summary>Post-training methods</summary>
-
-<details>
-<summary>unlearning</summary>
-
-- (142–147)
-
-</details>
-
-<details>
-<summary>model editing</summary>
-
-- (148, 149)
-
-</details>
-
-<details>
-<summary>decoding</summary>
-
-- (26, 119, 150–152)
-
-</details>
-
-</details>
-
-</details>
 
 
 
