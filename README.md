@@ -8,44 +8,66 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 <details>
 <summary><b>SPECTRUM 🌈</b></summary>
 
+<dl><dd>
+
 <details>
 <summary><b><i>Granularity</i></b></summary>
+
+<dl><dd>
 
 <details>
 <summary><i>perfect</i></summary>
 
+<dl><dd>
+
 - [23] [Deduplicating Training Data Mitigates Privacy Risks in Language Models](https://arxiv.org/abs/2202.06539) — Kandpal et al. (2022)
+
+</dd></dl>
 
 </details>
 
 <details>
 <summary><i>verbatim</i></summary>
 
+<dl><dd>
+
 - [13] [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805) — Carlini et al. (2021)
 - [24] [The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks](https://arxiv.org/abs/1802.08232) — Carlini et al. (2019)
 - [25] [Memorization Without Overfitting: Analyzing the Training Dynamics of Large Language Models](https://arxiv.org/abs/2205.10770) — Tirumala et al. (2022)
+
+</dd></dl>
 
 </details>
 
 <details>
 <summary><i>approximate</i></summary>
 
+<dl><dd>
+
 - [26] [Preventing Generation of Verbatim Memorization in Language Models Gives a False Sense of Privacy](https://aclanthology.org/2023.inlg-main.3/) — Ippolito et al. (2023)
 - [28] [Uncovering Latent Memories: Assessing Data Leakage and Memorization Patterns in LLMs](https://openreview.net/forum?id=7PZgCems9w) — Duan et al. (2024)
 - [29] [Near-Duplicate Sequence Search at Scale for LLM Memorization Evaluation](https://dl.acm.org/doi/10.1145/3589324) — Peng et al. (2023)
+
+</dd></dl>
 
 </details>
 
 <details>
 <summary><i>entity-level</i></summary>
 
+<dl><dd>
+
 - [30] [Quantifying and Analyzing Entity-Level Memorization in Large Language Models](https://arxiv.org/abs/2308.15727) — Zhou et al. (2023)
 - [31] [ProPILE: Probing Privacy Leakage in Large Language Models](https://arxiv.org/abs/2307.01881) — Kim et al. (2023)
+
+</dd></dl>
 
 </details>
 
 <details>
 <summary><i>content</i></summary>
+
+<dl><dd>
 
 - [12] Language Models as Knowledge Bases? — Petroni et al. (2019)
 - [33] [How Can We Know What Language Models Know?](https://arxiv.org/abs/1911.12543) — Jiang et al. (2020)
@@ -55,24 +77,36 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 - [37] SILO Language Models: Isolating Legal Risk in a Nonparametric Datastore — Min et al. (2024)
 - [38] On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? — Bender et al. (2021)
 
+</dd></dl>
+
 </details>
+
+</dd></dl>
 
 </details>
 
 <details>
 <summary><b><i>Retrievability</i></b></summary>
 
+<dl><dd>
+
 <details>
 <summary><i>extractable</i></summary>
+
+<dl><dd>
 
 - [39] [Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646) — Carlini et al. (2023)
 - [13] [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805) — Carlini et al. (2021)
 - [40] [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035) — Nasr et al. (2023)
 
+</dd></dl>
+
 </details>
 
 <details>
 <summary><i>discoverable</i></summary>
+
+<dl><dd>
 
 - [40] [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035) — Nasr et al. (2023)
 - [42] [Emergent and Predictable Memorization in Large Language Models](https://arxiv.org/abs/2304.11158) — Biderman et al. (2023)
@@ -81,15 +115,23 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 - [45] [MADLAD-400: A Multilingual and Document-Level Large Audited Dataset](https://arxiv.org/abs/2309.04662) — Kudugunta et al. (2023)
 - [39] [Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646) — Carlini et al. (2023)
 
+</dd></dl>
+
 </details>
+
+</dd></dl>
 
 </details>
 
 <details>
 <summary><b><i>Desirability</i></b></summary>
 
+<dl><dd>
+
 <details>
 <summary><i>undesirable</i></summary>
+
+<dl><dd>
 
 - [16] Foundation Models and Fair Use — Henderson et al. (2023)
 - [39] [Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646) — Carlini et al. (2023)
@@ -107,49 +149,72 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 - [57] [Recite, Reconstruct, Recollect: Memorization in LMs as a Multifaceted Phenomenon](https://arxiv.org/abs/2406.17746) — Prashanth et al. (2024)
 - [58] [The Reasoning-Memorization Interplay in Language Models Is Mediated by a Single Direction](https://aclanthology.org/2025.findings-acl.1111/) — Hong et al. (2025)
 
+</dd></dl>
+
 </details>
 
 <details>
 <summary><i>desirable</i></summary>
+
+<dl><dd>
 
 - [59] [PreCog: Exploring the Relation between Memorization and Performance in Pre-trained Language Models](https://arxiv.org/abs/2305.04673) — Ranaldi et al. (2023)
 - [60] Beyond Factuality: A Comprehensive Evaluation of LLMs as Knowledge Generators — Chen et al. (2023)
 - [61] [Scaling Laws for Fact Memorization of Large Language Models](https://arxiv.org/abs/2406.15720) — Lu et al. (2024)
 - [62] Training Language Models to Follow Instructions with Human Feedback — Ouyang et al. (2022)
 
-</details>
+</dd></dl>
 
 </details>
 
+</dd></dl>
+
 </details>
 
----
+</dd></dl>
+
+</details>
+
 <details>
 <summary><b>MEASUREMENT 📏</b></summary>
+
+<dl><dd>
 
 <details>
 <summary><b><i>String match</i></b></summary>
 
+<dl><dd>
+
 - [40] [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035) — Nasr et al. (2023)
 - [43] [Measuring Memorization in Language Models via Probabilistic Extraction](https://aclanthology.org/2025.naacl-long.469/) — Hayes et al. (2025)
 - [48] [The Secret Sharer](https://arxiv.org/abs/1802.08232) — Carlini et al. (2019)
+
+</dd></dl>
 
 </details>
 
 <details>
 <summary><b><i>Exposure</i></b></summary>
 
+<dl><dd>
+
 - [24] [The Secret Sharer](https://arxiv.org/abs/1802.08232) — Carlini et al. (2019)
 - [48] [The Secret Sharer](https://arxiv.org/abs/1802.08232) — Carlini et al. (2019)
 - [63] [Assessing Unintended Memorization in Neural Discriminative Sequence Models](https://link.springer.com/chapter/10.1007/978-3-030-58323-1_29) — Helali et al. (2020)
+
+</dd></dl>
 
 </details>
 
 <details>
 <summary><b><i>Inference attacks</i></b></summary>
 
+<dl><dd>
+
 <details>
 <summary><i>membership inference</i></summary>
+
+<dl><dd>
 
 - [65] [Membership Inference Attacks against Language Models via Neighbourhood Comparison](https://aclanthology.org/2023.findings-acl.719/) — Mattern et al. (2023)
 - [66] [Improved Membership Inference Attacks Against Language Classification Models](https://arxiv.org/abs/2310.07219) — Shachor et al. (2024)
@@ -163,10 +228,14 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 - [74] [ELMIA: Quantifying Membership Inference Risks of Sensitive Entities in LLMs](https://arxiv.org/abs/2511.00192) — Satvaty et al. (2025)
 - [75] [Min-K%++: Improved Baseline for Pre-Training Data Detection from LLMs](https://openreview.net/forum?id=ZGkfoufDaU) — Zhang et al. (2025)
 
+</dd></dl>
+
 </details>
 
 <details>
 <summary><i>data extraction</i></summary>
+
+<dl><dd>
 
 - [40] [Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035) — Nasr et al. (2023)
 - [43] [Measuring Memorization in Language Models via Probabilistic Extraction](https://aclanthology.org/2025.naacl-long.469/) — Hayes et al. (2025)
@@ -176,37 +245,56 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 - [77] [Canary Extraction in Natural Language Understanding Models](https://arxiv.org/abs/2203.13920) — Parikh et al. (2022)
 - [78] [Analyzing Leakage of Personally Identifiable Information in Language Models](https://arxiv.org/abs/2302.00539) — Lukas et al. (2023)
 
+</dd></dl>
+
 </details>
+
+</dd></dl>
 
 </details>
 
 <details>
 <summary><b><i>Counterfactuality</i></b></summary>
 
+<dl><dd>
+
 - [80] [Counterfactual Memorization in Neural Language Models](https://arxiv.org/abs/2112.12938) — Zhang et al. (2023)
+
+</dd></dl>
 
 </details>
 
 <details>
 <summary><b><i>Heuristic methods</i></b></summary>
 
+<dl><dd>
+
 - [81] [Rethinking LLM Memorization through the Lens of Adversarial Compression](https://arxiv.org/abs/2404.15146) — Schwarzschild et al. (2024)
 - [82] Universal and Transferable Adversarial Attacks on Aligned Language Models — Zou et al. (2023)
 - [83] [Evaluating LLM Memorization Using Soft Token Sparsity](https://openreview.net/forum?id=J4InP8gSbw) — Feng et al. (2025)
 
-</details>
+</dd></dl>
 
 </details>
 
----
+</dd></dl>
+
+</details>
+
 <details>
-<summary><b>INFLUENCES 🪾</b></summary>
+<summary><b>INFLUENCES</b></summary>
+
+<dl><dd>
 
 <details>
 <summary><b><i>Model-related</i></b></summary>
 
+<dl><dd>
+
 <details>
 <summary><i>model capacity</i></summary>
+
+<dl><dd>
 
 - [25] [Memorization Without Overfitting](https://arxiv.org/abs/2205.10770) — Tirumala et al. (2022)
 - [39] [Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646) — Carlini et al. (2023)
@@ -214,17 +302,25 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 - [85] [Memorization Capacity of Multi-Head Attention in Transformers](https://arxiv.org/abs/2306.02010) — Mahdavi et al. (2024)
 - [86] [Provable Memorization Capacity of Transformers](https://openreview.net/forum?id=8JCg5xJCTPR) — Kim et al. (2023)
 
+</dd></dl>
+
 </details>
 
 <details>
 <summary><i>tokenization</i></summary>
 
+<dl><dd>
+
 - [87] [How BPE Affects Memorization in Transformers](https://arxiv.org/abs/2110.02782) — Kharitonov et al. (2022)
+
+</dd></dl>
 
 </details>
 
 <details>
 <summary><i>explainability &amp; interpretability</i></summary>
+
+<dl><dd>
 
 - [88] [Demystifying Verbatim Memorization in Large Language Models](https://arxiv.org/abs/2407.17817) — Huang et al. (2024)
 - [89] [Understanding Transformer Memorization Recall Through Idioms](https://arxiv.org/abs/2210.03588) — Haviv et al. (2023)
@@ -234,15 +330,23 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 - [93] [Neuron-Level Differentiation of Memorization and Generalization in LLMs](https://aclanthology.org/2025.emnlp-main.812/) — Huang et al. (2025)
 - [94] Understanding Verbatim Memorization in LLMs Through Circuit Discovery — Lasy et al. (2025)
 
+</dd></dl>
+
 </details>
+
+</dd></dl>
 
 </details>
 
 <details>
 <summary><b><i>Training pipeline</i></b></summary>
 
+<dl><dd>
+
 <details>
 <summary><i>data characteristics</i></summary>
+
+<dl><dd>
 
 - [23] [Deduplicating Training Data Mitigates Privacy Risks in Language Models](https://arxiv.org/abs/2202.06539) — Kandpal et al. (2022)
 - [25] [Memorization Without Overfitting](https://arxiv.org/abs/2205.10770) — Tirumala et al. (2022)
@@ -251,20 +355,28 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 - [95] [Deduplicating Training Data Makes Language Models Better](https://arxiv.org/abs/2107.06499) — Lee et al. (2022)
 - [96] [Memorization in Language Models through the Lens of Intrinsic Dimension](https://aclanthology.org/2025.l2m2-1.2/) — Arnold (2025)
 
+</dd></dl>
+
 </details>
 
 <details>
 <summary><i>training dynamics</i></summary>
+
+<dl><dd>
 
 - [23] [Deduplicating Training Data Mitigates Privacy Risks in Language Models](https://arxiv.org/abs/2202.06539) — Kandpal et al. (2022)
 - [80] [Counterfactual Memorization in Neural Language Models](https://arxiv.org/abs/2112.12938) — Zhang et al. (2023)
 - [97] [Measuring Forgetting of Memorized Training Examples](https://arxiv.org/abs/2207.00099) — Jagielski et al. (2023)
 - [98] [Learning, Forgetting, Remembering: Insights From Tracking LLM Memorization During Training](https://aclanthology.org/2024.blackboxnlp-1.4/) — Leybzon & Kervadec (2024)
 
+</dd></dl>
+
 </details>
 
 <details>
 <summary><i>forgetting</i></summary>
+
+<dl><dd>
 
 - [25] [Memorization Without Overfitting](https://arxiv.org/abs/2205.10770) — Tirumala et al. (2022)
 - [97] [Measuring Forgetting of Memorized Training Examples](https://arxiv.org/abs/2207.00099) — Jagielski et al. (2023)
@@ -275,24 +387,36 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 - [103] Digital Forgetting in Large Language Models: A Survey of Unlearning Methods — Blanco-Justicia et al. (2024)
 - [104] Overcoming Catastrophic Forgetting in Neural Networks — Kirkpatrick et al. (2017)
 
+</dd></dl>
+
 </details>
 
 <details>
 <summary><i>fine-tuning</i></summary>
 
+<dl><dd>
+
 - [105] [An Empirical Analysis of Memorization in Fine-tuned Autoregressive Language Models](https://aclanthology.org/2022.emnlp-main.119/) — Mireshghallah et al. (2022)
 - [106] [Exploring Memorization in Fine-tuned Language Models](https://arxiv.org/abs/2310.06714) — Zeng et al. (2024)
 - [107] Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (T5) — Raffel et al. (2020)
 
+</dd></dl>
+
 </details>
+
+</dd></dl>
 
 </details>
 
 <details>
 <summary><b><i>Inference-time</i></b></summary>
 
+<dl><dd>
+
 <details>
 <summary><i>Prompting</i></summary>
+
+<dl><dd>
 
 - [13] [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805) — Carlini et al. (2021)
 - [23] [Deduplicating Training Data Mitigates Privacy Risks in Language Models](https://arxiv.org/abs/2202.06539) — Kandpal et al. (2022)
@@ -303,10 +427,14 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 - [112] [Alpaca against Vicuna: Using LLMs to Uncover Memorization of LLMs](https://arxiv.org/abs/2403.04801) — Kassem et al. (2024)
 - [113] ["According to ...": Prompting Language Models Improves Quoting from Pre-Training Data](https://arxiv.org/abs/2305.13252) — Weller et al. (2024)
 
+</dd></dl>
+
 </details>
 
 <details>
 <summary><i>decoding</i></summary>
+
+<dl><dd>
 
 - [13] [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805) — Carlini et al. (2021)
 - [114] [Bag of Tricks for Training Data Extraction from Language Models](https://arxiv.org/abs/2302.04460) — Yu et al. (2023)
@@ -314,28 +442,43 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 - [116] The Curious Case of Neural Text Degeneration — Holtzman et al. (2019)
 - [117] Locally Typical Sampling — Meister et al. (2023)
 
-</details>
+</dd></dl>
 
 </details>
 
+</dd></dl>
+
 </details>
 
----
+</dd></dl>
+
+</details>
+
 <details>
-<summary><b>MITIGATION 💊</b></summary>
+<summary><b>MITIGATION</b></summary>
+
+<dl><dd>
 
 <details>
 <summary><b><i>Data-level methods</i></b></summary>
 
+<dl><dd>
+
 - [95] [Deduplicating Training Data Makes Language Models Better](https://arxiv.org/abs/2107.06499) — Lee et al. (2022)
+
+</dd></dl>
 
 </details>
 
 <details>
 <summary><b><i>Training-time methods</i></b></summary>
 
+<dl><dd>
+
 <details>
 <summary><i>differential privacy</i></summary>
+
+<dl><dd>
 
 - [24] [The Secret Sharer](https://arxiv.org/abs/1802.08232) — Carlini et al. (2019)
 - [78] [Analyzing Leakage of Personally Identifiable Information in Language Models](https://arxiv.org/abs/2302.00539) — Lukas et al. (2023)
@@ -345,35 +488,51 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 - [134] [Just Fine-tune Twice: Selective Differential Privacy for Large Language Models](https://arxiv.org/abs/2204.07667) — Shi et al. (2022)
 - [135] [Selective Differential Privacy for Language Modeling](https://arxiv.org/abs/2108.12944) — Shi et al. (2022)
 
+</dd></dl>
+
 </details>
 
 <details>
 <summary><i>promoting reasoning</i></summary>
+
+<dl><dd>
 
 - [56] [Reason to Rote: Rethinking Memorization in Reasoning](https://aclanthology.org/2025.emnlp-main.437/) — Du et al. (2025)
 - [58] [The Reasoning-Memorization Interplay in Language Models Is Mediated by a Single Direction](https://aclanthology.org/2025.findings-acl.1111/) — Hong et al. (2025)
 - [136] [None of the Others: A General Technique to Distinguish Reasoning from Memorization in MCQ LLM Benchmarks](https://arxiv.org/abs/2502.12896) — Salido et al. (2025)
 - [137] [Memorization vs. Reasoning: Updating LLMs with New Knowledge](https://aclanthology.org/2025.findings-acl.1326/) — Li & Goyal (2025)
 
+</dd></dl>
+
 </details>
 
 <details>
 <summary><i>training intervention</i></summary>
+
+<dl><dd>
 
 - [138] [Mitigating Unintended Memorization in Language Models via Alternating Teaching](https://arxiv.org/abs/2210.06772) — Liu et al. (2023)
 - [139] LibriSpeech: An ASR Corpus Based on Public Domain Audio Books — Panayotov et al. (2015)
 - [140] [Be like a Goldfish, Don't Memorize! Mitigating Memorization in Generative LLMs](https://arxiv.org/abs/2406.10209) — Hans et al. (2024)
 - [141] [Memorization Sinks: Isolating Memorization during LLM Training](https://openreview.net/forum?id=sRJrMPu5Uu) — Ghosal et al. (2025)
 
+</dd></dl>
+
 </details>
+
+</dd></dl>
 
 </details>
 
 <details>
 <summary><b><i>Post-training methods</i></b></summary>
 
+<dl><dd>
+
 <details>
 <summary><i>unlearning</i></summary>
+
+<dl><dd>
 
 - [142] Machine Unlearning — Bourtoule et al. (2021)
 - [143] [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://arxiv.org/abs/2310.20150) — Chen & Yang (2023)
@@ -382,18 +541,26 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 - [146] [Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges](https://arxiv.org/abs/2311.15766) — Si et al. (2023)
 - [147] [Large Language Model Unlearning](https://arxiv.org/abs/2310.10683) — Yao et al. (2024)
 
+</dd></dl>
+
 </details>
 
 <details>
 <summary><i>model editing</i></summary>
 
+<dl><dd>
+
 - [148] [Private Memorization Editing: Turning Memorization into a Defense to Strengthen Data Privacy in LLMs](https://aclanthology.org/2025.acl-long.810/) — Ruzzetti et al. (2025)
 - [149] [Controllable Memorization in LLMs via Weight Pruning](https://aclanthology.org/2025.emnlp-main.765/) — Ni et al. (2025)
+
+</dd></dl>
 
 </details>
 
 <details>
 <summary><i>decoding</i></summary>
+
+<dl><dd>
 
 - [26] [Preventing Generation of Verbatim Memorization in Language Models Gives a False Sense of Privacy](https://aclanthology.org/2023.inlg-main.3/) — Ippolito et al. (2023)
 - [119] [The Unreasonable Ineffectiveness of Nucleus Sampling on Mitigating Text Memorization](https://aclanthology.org/2024.inlg-main.30/) — Borec et al. (2024)
@@ -401,11 +568,18 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 - [151] [GitHub Copilot: AI-Powered Code Completion](https://github.com/features/copilot) — GitHub
 - [152] [ROUGE: A Package for Automatic Evaluation of Summaries](https://aclanthology.org/W04-1013/) — Lin (2004)
 
-</details>
+</dd></dl>
 
 </details>
 
+</dd></dl>
+
 </details>
+
+</dd></dl>
+
+</details>
+
 
 ---
 ## 📖 Papers
