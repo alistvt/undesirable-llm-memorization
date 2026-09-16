@@ -5,7 +5,7 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 ---
 # LLM Memorization
 
-<details>
+<details open>
 <summary><b>SPECTRUM 🌈</b></summary>
 
 <dl><dd>
@@ -175,7 +175,7 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 
 </details>
 
-<details>
+<details open>
 <summary><b>MEASUREMENT 📏</b></summary>
 
 <dl><dd>
@@ -281,7 +281,7 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 
 </details>
 
-<details>
+<details open>
 <summary><b>INFLUENCES</b></summary>
 
 <dl><dd>
@@ -454,7 +454,7 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 
 </details>
 
-<details>
+<details open>
 <summary><b>MITIGATION</b></summary>
 
 <dl><dd>
