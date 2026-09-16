@@ -282,7 +282,7 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 </details>
 
 <details open>
-<summary><b>INFLUENCES</b></summary>
+<summary><b>INFLUENCES 🪾</b></summary>
 
 <dl><dd>
 
@@ -455,7 +455,7 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 </details>
 
 <details open>
-<summary><b>MITIGATION</b></summary>
+<summary><b>MITIGATIONS 💊</b></summary>
 
 <dl><dd>
 
