@@ -198,7 +198,7 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 </details>
 
 <details>
-<summary><b>INFLUENCES</b></summary>
+<summary><b>INFLUENCES 🪾</b></summary>
 
 <details>
 <summary><b><i>Model-related</i></b></summary>
@@ -319,7 +319,7 @@ This repository contains a list of papers cited in our survey on [**undesirable 
 </details>
 
 <details>
-<summary><b>MITIGATION</b></summary>
+<summary><b>MITIGATION 💊</b></summary>
 
 <details>
 <summary><b><i>Data-level methods</i></b></summary>
